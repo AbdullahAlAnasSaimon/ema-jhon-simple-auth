@@ -1,6 +1,6 @@
 .form-container{
   width: 500px;
-  height: 600px;
+  height: auto;
   margin: 20px auto;
   border: 1px solid #95a0a7;
   border-radius: 8px;
@@ -14,7 +14,7 @@
   letter-spacing: 0.0025em;
 }
 form{
-  padding: 38px;
+  padding: 0px 38px;
 }
 .form-control{
   margin: 20px 0px;
@@ -29,12 +29,13 @@ form{
   border: 1px solid #95a0a7;
   border-radius: 5px;
   margin: 0 auto;
+  padding: 0px 8px;
   display: block;
   font-size: 22px;
 }
 .form-control input:focus{
   outline: none;
-  border: 1px solid tomato;
+  border: 1px solid orange;
 }
 .btn-submit{
   width: 423px;

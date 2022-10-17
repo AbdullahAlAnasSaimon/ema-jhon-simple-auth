@@ -1,3 +1,8 @@
 .error-text{
   color: #fd4141;
 }
+.success{
+  color: #11c04b;
+  text-align: center;
+  font-size: 20px;
+}

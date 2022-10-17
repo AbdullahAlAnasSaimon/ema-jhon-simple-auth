@@ -6,14 +6,19 @@
     justify-content: space-between;
     padding-left: 140px;
     padding-right: 140px;
+    color: #FFFFFF;
 }
 
 .header a{
     color: #FFFFFF;
     text-decoration: none;
     font-size: 17px;
-    margin-left: 36px;
+    margin: 0px 18px;
 }
 .header a:hover{
     color: orange;
+}
+.btn-logout{
+    font-size: 17px;
+    margin: 0px 18px;
 }
