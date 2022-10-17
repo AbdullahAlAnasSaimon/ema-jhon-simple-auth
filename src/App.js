@@ -30,7 +30,7 @@ function App() {
         },
         {
           path: 'inventory',
-          element: <Inventory></Inventory>
+          element: <PriveteRoute><Inventory/></PriveteRoute>
         },
         {
           path: '/shipping',
