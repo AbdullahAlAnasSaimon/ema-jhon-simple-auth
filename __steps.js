@@ -13,4 +13,7 @@ AUTH SETUP
 /* 
 1. create UserContext (Auth context): UserContext --> component name,
    UserContext provides AuthContext
+2. create AuthContext
+3. seet AuthContext.Provider
+4. Make sure you set the children
 */
